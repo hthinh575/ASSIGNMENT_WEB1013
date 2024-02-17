@@ -1,0 +1,250 @@
+ * {
+    margin: 0px;
+    padding: 0px;
+ }
+ header a .anhheader {
+    width: 100%;
+    height: 350px;
+ }
+ body {
+    background-color: white;
+    font-family: tahoma
+ }
+ nav {
+    height: 40px;
+    background: #0D9FD0;
+    margin-bottom: 10px;
+ }
+ nav ul li {
+    float: left;
+    list-style: none;
+    padding-left: 90px;
+    border-right: 1px solid gray;
+ }
+ nav ul li a {
+    padding-right: 79px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 40px;
+    text-shadow: 2px 2px 10px black;
+ }
+  nav ul li:hover {
+    background: red;
+ }
+ aside {  
+    padding-left: 0px;
+    width: 300px;
+ }
+ .center iframe {
+    padding: 10px;
+    text-align: center;
+ }
+ .noidungg {
+    display: flex;
+    margin: 0px 2px;
+    border: 1px solid grey;
+    background-color: white;
+ }
+ .noidungrightne {
+    padding: 0px 10px;
+ }
+ .center {
+    display: flex;
+ }
+ .center .c1 a {
+    text-decoration: none;
+ }
+ .center img {
+    padding: 5px;
+    width: 29%;
+ }
+ .noidungrightne a:hover {
+    color: red;
+ }
+ h3 {
+    font-size: 18px;
+    padding: 10px 15px;
+    background: #0D9FD0;
+    color: white;
+    text-shadow: 2px 2px 5px gray;
+ }
+ .menudoc ul {
+    list-style: none;
+    padding-left: 10px;
+ }
+ .menudoc ul li {
+    margin-left: -5px;
+    padding: 7px 0px;
+    background-color: white;
+    border-top: 1px solid gray;
+ }
+ .menudoc ul li:hover {
+    background: red;
+ }
+ footer {
+    display: flex;
+    width: 100%;
+    clear: both;
+    background: #0D9FD0;
+    color: white;
+ }
+ .ft1 {
+    margin-left: 5%;
+    width: 400px;
+    margin-bottom: 25px;
+ }
+ .ft2 {
+    margin-left: 2%;
+    float: right;
+ }
+ .ft2 h3 {
+    text-align: center;
+ }
+ footer h3 {
+    padding: 15px;
+    font-size: 20px;
+ }
+ .ft3 {
+    width: 100%;
+    clear: both;
+    height: 40px;
+    background: #0D9FD0;
+ }
+ .ft3 p {
+   padding-top: 9px;
+    color: white;
+    font-size: 15px;
+    font-variant: small-caps;
+    text-align: center;
+ }
+ footer .ft2 .ft21 {
+    padding: 5px;
+    text-align: center;
+ }
+ nav ul li a.taitrangchu {
+    color: rgb(242, 255, 0);
+ }
+ .gioithieune {
+    text-align: center;
+    padding: 25px;
+    color: red;
+ }
+ .noidungrightne h5 {
+    padding: 20px;
+    font-size: 15px;
+ }
+ .noidungrightne p {
+    padding: 15px;
+ }
+ #blabla{
+   padding-left: 240px;
+ }
+ #bleble{
+   padding-left: 240px;
+ }
+ .noidungrightne table {
+    border-collapse: collapse;
+ }
+ 
+ .noidungrightne thead {
+    text-align: center;
+ }
+ 
+ .noidungrightne tbody {
+    text-align: justify;
+    text-align: center;
+ }
+ 
+ .noidungrightne td {
+    padding: 8px 4px
+ }
+ 
+ .noidungrightne td:nth-child(odd) {
+    color: black;
+ }
+ 
+ tbody td a {
+    text-decoration: none;
+ }
+ 
+ table {
+    /* margin-top: 2%; */
+    margin: 2% 3%;
+ }
+ 
+ /* liên hệ  */
+ .noidunglienhe {
+    margin: 1px 10px;
+    background-color: whitesmoke;
+ }
+ .noidunglienhe h4 {
+    font-size: 25px;
+    padding: 5px;
+ }
+ 
+ .noidunglienhe a {
+    font-size: 17px;
+    text-decoration: none;
+    /* color: #DC0000; */
+ }
+ 
+ .noidunglienhe a:hover {
+    color: #DC0000;
+ }
+ 
+ /* .noidunglienhe a:hover{color: red;} */
+ .noidunglienhe ul li {
+    list-style-type: none;
+    padding: 1%;
+ }
+ 
+ .noidunglienhe .bandone {
+    padding: 2%;
+    margin-left: 10%;
+    box-shadow: 10px 10px 10px grey;
+    background-color: #0D9FD0;
+    border-radius: 8px;
+ }
+ .noidunglienhe .like{
+    padding-top: 2%;
+    margin-left: 50px;
+ }
+ .noidunglienhe ul li .facebookne{
+    width: 50px;
+ }
+form #btn{
+   padding: 5px 10px 5px 10px;
+   background-color: #0D9FD0;
+   border-radius: 2px;
+   margin-bottom: 20px;
+   color: white;
+}
+form #btn:hover{
+   background-color: red;
+} 
+.hihi h4 {
+   color: #DC0000;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+label{
+   padding-left: 20px;
+}
+#hoten {
+   margin-left: 25px;
+   margin-bottom: 5px;
+   width: 300px;
+   height: 30px;
+}
+#mail {
+   margin-left: 55px;
+   margin-bottom: 5px;
+   width: 300px;
+   height: 30px;
+}
+#sdt {
+   width: 300px;
+   height: 30px;
+}
+
